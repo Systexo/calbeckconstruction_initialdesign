@@ -546,6 +546,10 @@ section {
   font-family: "Poppins", sans-serif;
 }
 
+.about .content img {
+  padding-bottom: 50px;
+}
+
 .about .content ul {
   list-style: none;
   padding: 0;
